@@ -1,0 +1,9 @@
+c:\users\tomek\documents\visual studio 2015\Projects\Payday2InvEdit\Payday2InvEdit\bin\Debug\Payday2InvEdit.exe.config
+c:\users\tomek\documents\visual studio 2015\Projects\Payday2InvEdit\Payday2InvEdit\bin\Debug\Payday2InvEdit.exe
+c:\users\tomek\documents\visual studio 2015\Projects\Payday2InvEdit\Payday2InvEdit\bin\Debug\Payday2InvEdit.pdb
+c:\users\tomek\documents\visual studio 2015\Projects\Payday2InvEdit\Payday2InvEdit\obj\Debug\Payday2InvEdit.csprojResolveAssemblyReference.cache
+c:\users\tomek\documents\visual studio 2015\Projects\Payday2InvEdit\Payday2InvEdit\obj\Debug\Payday2InvEdit.Form1.resources
+c:\users\tomek\documents\visual studio 2015\Projects\Payday2InvEdit\Payday2InvEdit\obj\Debug\Payday2InvEdit.Properties.Resources.resources
+c:\users\tomek\documents\visual studio 2015\Projects\Payday2InvEdit\Payday2InvEdit\obj\Debug\Payday2InvEdit.csproj.GenerateResource.Cache
+c:\users\tomek\documents\visual studio 2015\Projects\Payday2InvEdit\Payday2InvEdit\obj\Debug\Payday2InvEdit.exe
+c:\users\tomek\documents\visual studio 2015\Projects\Payday2InvEdit\Payday2InvEdit\obj\Debug\Payday2InvEdit.pdb

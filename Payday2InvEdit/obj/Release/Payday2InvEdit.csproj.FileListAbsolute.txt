@@ -1,0 +1,8 @@
+c:\users\tomek\documents\visual studio 2015\Projects\Payday2InvEdit\Payday2InvEdit\bin\Release\Payday2InvEdit.exe.config
+c:\users\tomek\documents\visual studio 2015\Projects\Payday2InvEdit\Payday2InvEdit\bin\Release\Payday2InvEdit.exe
+c:\users\tomek\documents\visual studio 2015\Projects\Payday2InvEdit\Payday2InvEdit\bin\Release\Payday2InvEdit.pdb
+c:\users\tomek\documents\visual studio 2015\Projects\Payday2InvEdit\Payday2InvEdit\obj\Release\Payday2InvEdit.Form1.resources
+c:\users\tomek\documents\visual studio 2015\Projects\Payday2InvEdit\Payday2InvEdit\obj\Release\Payday2InvEdit.Properties.Resources.resources
+c:\users\tomek\documents\visual studio 2015\Projects\Payday2InvEdit\Payday2InvEdit\obj\Release\Payday2InvEdit.csproj.GenerateResource.Cache
+c:\users\tomek\documents\visual studio 2015\Projects\Payday2InvEdit\Payday2InvEdit\obj\Release\Payday2InvEdit.exe
+c:\users\tomek\documents\visual studio 2015\Projects\Payday2InvEdit\Payday2InvEdit\obj\Release\Payday2InvEdit.pdb
